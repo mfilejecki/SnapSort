@@ -274,5 +274,5 @@ Deletes a tag with the specified tagId and its connections.
 
 ## Authors
 
-- [@filus4](https://github.com/filus4)
+- [@filus4](https://github.com/mfilejecki)
 - [@patkub2](https://github.com/patkub2)
